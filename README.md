@@ -68,3 +68,8 @@ DELETE /pokemons/:id
 	"species": "Moltres"
 }
 ```
+
+<li>
+	Title: "Title"
+	Completed: "Completed"
+</li>
