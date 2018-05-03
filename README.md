@@ -11,9 +11,11 @@ Pokemon! Except, they can lose Pokemon along their journey due to a Nuzlocke cha
 - Whenever the user sees a trainer, they can "release" a pokemon and it should be persistent with the backend and be removed from the frontend.
 
 ## The API
-All requests can be made on `http://localhost:3000`. You will just be
-sure to append your endpoints to this url. Make sure to `bundle install`
+All requests can be made on `http://localhost:3000`. Just be sure to start the server
+`cd` into `pokemon-backend`. `bundle install`
 and then `rails db:setup`. You should see Pokemon and trainers in the backend.
+
+**THESE ARE THE ONLY ROUTES YOU NEED, DO NOT CHANGE THE BACKEND**
 
 **Getting all trainers**
 You can find all of the trainers plus their respective Pokemon team.
